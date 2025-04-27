@@ -46,3 +46,7 @@ Na opção "3", o sistema pedirá o nome do usuário e buscará no sitema. Se en
 
 4. Remover Usuário
 Na opção "4", o sistema pedirá o nome do usuário para removê-lo do sistema. Se o nome for encontrado, o usuario será removido.
+
+
+## Tela de Exemplo:
+![TelaUsuários](https://github.com/user-attachments/assets/b0545aef-92f3-478b-b410-8f1c544a5341)
