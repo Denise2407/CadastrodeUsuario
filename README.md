@@ -16,7 +16,7 @@ Este projeto consiste em um cadastro de usuários simples desenvolvida em Java. 
 ## Como Rodar o Projeto
 
 1. Clone este repositório para sua máquina:
-   git clone https://github.com/Denise2407/CadastrodeUsuario.git
+   git clone https://github.com/Denise-Dev1/CadastrodeUsuario.git
 2. Navegue até o diretório do projeto:
     cd CadastrodeUsuario
 3. Compile o código
